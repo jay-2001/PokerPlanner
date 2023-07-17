@@ -1,0 +1,12 @@
+export const GROUP_URL = 'groups/';
+export const BOARD_URL = 'boards/';
+export const BOARD_SESSION_URL = 'session/';
+export const TICKET_URL = 'ticket/';
+export const USER_URL = '/user/';
+export const JIRA_URL = '/ticket/jira/';
+export const SESSION_URL = '/session/';
+export const TICKET = '/tickets/';
+export const USERPROFILE_URL = 'user/';
+export const GROUP_LIST_URL = 'groups/list/';
+export const BOARD_LIST_URL = 'boards/list/';
+export const TICKET_LIST_URL = 'tickets/list/';
